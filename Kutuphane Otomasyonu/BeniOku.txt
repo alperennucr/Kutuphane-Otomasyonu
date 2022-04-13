@@ -1,0 +1,15 @@
+Setup kurulmadan önce 
+-------------------------------------
+İlk önce kurulacak bilgisayara sql management studio kurunuz.
+sql dosyalarının(iki adet) bilgisayarın sql alanına kurulması gereklidir.
+Yani sql dosyalarını Program Files, Microsoft Sql Server yolundan giderek gerekli yere yapıştırınız.
+Yapıştırdıktan sonra hemen gelmiyor, gelmesi için bir atak işlemi yapılması gerekli.
+Bunun için sql management deki database alanına sağ tık ile attach gerçekleştirilmeli.
+
+Attach deyince
+---------------------
+Çıkan yerde sağ ortalardaki Add butonuna basın.
+Yapıştırılan attach dosyasını bulup, Ok, Ok diyelim.
+
+Ardından Test adındaki metin belgesini (C:) içine bırakalım.
+Daha sonra sql kurulu bilgisayardaki adres ismini alarak test dosyasının içindeki gerekli yere yerleştirin.
